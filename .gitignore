@@ -1,0 +1,15 @@
+# 認証情報（絶対に公開しない）
+credentials.json
+token.json
+service_account.json
+*.json
+
+# サンプルファイル
+sample.txt
+
+# Pythonキャッシュ
+__pycache__/
+*.pyc
+
+# macOSの隠しファイル
+.DS_Store
