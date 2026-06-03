@@ -1,0 +1,13 @@
+# 認証情報・トークン
+credentials.json
+token.json
+config.py
+
+# Python関連
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# OS
+.DS_Store
